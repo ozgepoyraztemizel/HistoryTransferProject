@@ -46,7 +46,7 @@ final class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("deneme")
         // Pastel pembe arka plan
         view.backgroundColor = UIColor(
             red: 0.98,
